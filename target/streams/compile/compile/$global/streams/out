@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/root/map-reduce-plugin-2/sbt-map-reduce/src/main/scala/org/radboris/sbt/MapReducePlugin.scala:29:13: no arguments allowed for nullary method main: ()Unit[0m
+[0m[[0m[31merror[0m] [0m[0m  Main.main("test")[0m
+[0m[[0m[31merror[0m] [0m[0m            ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

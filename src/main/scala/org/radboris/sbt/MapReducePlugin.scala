@@ -3,6 +3,7 @@ package org.radboris.sbt
 import sbt._
 import sbt.Keys._
 import sbt.plugins.JvmPlugin
+import Main._
 
 object MapReducePlugin extends AutoPlugin {
 
@@ -12,7 +13,7 @@ object MapReducePlugin extends AutoPlugin {
   object autoImport {
     val exampleSetting = settingKey[String]("A setting that is automatically imported to the build")
     val exampleTask = taskKey[String]("A task that is automatically imported to the build")
-    println(exampleSetting)
+    println("in auto import")
   }
 
   import autoImport._
@@ -25,4 +26,5 @@ object MapReducePlugin extends AutoPlugin {
   override lazy val buildSettings = Seq()
 
   override lazy val globalSettings = Seq()
+  Main.main()
 }

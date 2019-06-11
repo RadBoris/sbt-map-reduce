@@ -4,6 +4,7 @@ version := "0.1-SNAPSHOT"
 
 sbtPlugin := true
 
+
 // choose a test framework
 
 // utest
@@ -22,6 +23,8 @@ bintrayPackageLabels := Seq("sbt","plugin")
 bintrayVcsUrl := Some("""git@github.com:org.radboris/sbt-map-reduce.git""")
 
 initialCommands in console := """import org.radboris.sbt._"""
+mainClass in (Compile, run) := Some("org.radboris.sbt.MapReducePlugin")
+
 
 enablePlugins(ScriptedPlugin)
 // set up 'scripted; sbt plugin for testing sbt plugins
