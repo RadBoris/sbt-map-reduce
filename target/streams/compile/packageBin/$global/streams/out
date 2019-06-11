@@ -1,0 +1,19 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging /root/map-reduce-plugin-2/sbt-map-reduce/target/scala-2.12/sbt-1.0/sbt-map-reduce-0.1-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org/radboris/sbt[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /root/map-reduce-plugin-2/sbt-map-reduce/target/scala-2.12/sbt-1.0/classes/org/radboris/sbt[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org/radboris[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /root/map-reduce-plugin-2/sbt-map-reduce/target/scala-2.12/sbt-1.0/classes/org/radboris[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org/radboris/sbt/MapReducePlugin$autoImport$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /root/map-reduce-plugin-2/sbt-map-reduce/target/scala-2.12/sbt-1.0/classes/org/radboris/sbt/MapReducePlugin$autoImport$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org/radboris/sbt/MapReducePlugin.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /root/map-reduce-plugin-2/sbt-map-reduce/target/scala-2.12/sbt-1.0/classes/org/radboris/sbt/MapReducePlugin.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /root/map-reduce-plugin-2/sbt-map-reduce/target/scala-2.12/sbt-1.0/classes/org[0m
+[0m[[0m[0mdebug[0m] [0m[0m	sbt[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /root/map-reduce-plugin-2/sbt-map-reduce/target/scala-2.12/sbt-1.0/classes/sbt[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org/radboris/sbt/MapReducePlugin$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /root/map-reduce-plugin-2/sbt-map-reduce/target/scala-2.12/sbt-1.0/classes/org/radboris/sbt/MapReducePlugin$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	sbt/sbt.autoplugins[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /root/map-reduce-plugin-2/sbt-map-reduce/target/scala-2.12/sbt-1.0/classes/sbt/sbt.autoplugins[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m

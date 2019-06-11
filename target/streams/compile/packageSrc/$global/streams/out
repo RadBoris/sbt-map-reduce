@@ -1,0 +1,5 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging /root/map-reduce-plugin-2/sbt-map-reduce/target/scala-2.12/sbt-1.0/sbt-map-reduce-0.1-SNAPSHOT-sources.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org/radboris/sbt/MapReducePlugin.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /root/map-reduce-plugin-2/sbt-map-reduce/src/main/scala/org/radboris/sbt/MapReducePlugin.scala[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m
