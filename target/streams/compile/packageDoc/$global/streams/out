@@ -28,12 +28,16 @@
 [0m[[0m[0mdebug[0m] [0m[0m	  /root/map-reduce-plugin-2/sbt-map-reduce/target/scala-2.12/sbt-1.0/api/lib/diagrams.js[0m
 [0m[[0m[0mdebug[0m] [0m[0m	index.html[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /root/map-reduce-plugin-2/sbt-map-reduce/target/scala-2.12/sbt-1.0/api/index.html[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org/radboris/sbt/MapReducePlugin$$MapReduce$.html[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /root/map-reduce-plugin-2/sbt-map-reduce/target/scala-2.12/sbt-1.0/api/org/radboris/sbt/MapReducePlugin$$MapReduce$.html[0m
 [0m[[0m[0mdebug[0m] [0m[0m	lib/modernizr.custom.js[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /root/map-reduce-plugin-2/sbt-map-reduce/target/scala-2.12/sbt-1.0/api/lib/modernizr.custom.js[0m
 [0m[[0m[0mdebug[0m] [0m[0m	lib/class_diagram.png[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /root/map-reduce-plugin-2/sbt-map-reduce/target/scala-2.12/sbt-1.0/api/lib/class_diagram.png[0m
 [0m[[0m[0mdebug[0m] [0m[0m	org/radboris/sbt/MapReducePlugin$.html[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /root/map-reduce-plugin-2/sbt-map-reduce/target/scala-2.12/sbt-1.0/api/org/radboris/sbt/MapReducePlugin$.html[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org/radboris/sbt/util[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /root/map-reduce-plugin-2/sbt-map-reduce/target/scala-2.12/sbt-1.0/api/org/radboris/sbt/util[0m
 [0m[[0m[0mdebug[0m] [0m[0m	lib/source-code-pro-v6-latin-regular.woff[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /root/map-reduce-plugin-2/sbt-map-reduce/target/scala-2.12/sbt-1.0/api/lib/source-code-pro-v6-latin-regular.woff[0m
 [0m[[0m[0mdebug[0m] [0m[0m	lib/trait_comp.svg[0m
@@ -72,6 +76,8 @@
 [0m[[0m[0mdebug[0m] [0m[0m	  /root/map-reduce-plugin-2/sbt-map-reduce/target/scala-2.12/sbt-1.0/api/lib/open-sans-v13-latin-regular.woff[0m
 [0m[[0m[0mdebug[0m] [0m[0m	lib/object_comp_trait.svg[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /root/map-reduce-plugin-2/sbt-map-reduce/target/scala-2.12/sbt-1.0/api/lib/object_comp_trait.svg[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org/radboris/sbt/util/index.html[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /root/map-reduce-plugin-2/sbt-map-reduce/target/scala-2.12/sbt-1.0/api/org/radboris/sbt/util/index.html[0m
 [0m[[0m[0mdebug[0m] [0m[0m	lib/lato-v11-latin-100.eot[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /root/map-reduce-plugin-2/sbt-map-reduce/target/scala-2.12/sbt-1.0/api/lib/lato-v11-latin-100.eot[0m
 [0m[[0m[0mdebug[0m] [0m[0m	lib/open-sans-v13-latin-400i.ttf[0m
@@ -134,6 +140,8 @@
 [0m[[0m[0mdebug[0m] [0m[0m	  /root/map-reduce-plugin-2/sbt-map-reduce/target/scala-2.12/sbt-1.0/api/lib/diagrams.css[0m
 [0m[[0m[0mdebug[0m] [0m[0m	lib/index.css[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /root/map-reduce-plugin-2/sbt-map-reduce/target/scala-2.12/sbt-1.0/api/lib/index.css[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org/radboris/sbt/util/FileToLines$.html[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /root/map-reduce-plugin-2/sbt-map-reduce/target/scala-2.12/sbt-1.0/api/org/radboris/sbt/util/FileToLines$.html[0m
 [0m[[0m[0mdebug[0m] [0m[0m	org/radboris/sbt/MapData$.html[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /root/map-reduce-plugin-2/sbt-map-reduce/target/scala-2.12/sbt-1.0/api/org/radboris/sbt/MapData$.html[0m
 [0m[[0m[0mdebug[0m] [0m[0m	lib/trait_diagram.png[0m

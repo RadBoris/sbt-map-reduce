@@ -1,7 +1,7 @@
-[0m[[0m[0minfo[0m] [0m[0m:: delivering :: org.radboris#sbt-map-reduce;0.1-SNAPSHOT :: 0.1-SNAPSHOT :: integration :: Tue Jun 11 19:44:02 UTC 2019[0m
-[0m[[0m[0mdebug[0m] [0m[0m	options = status=integration pubdate=Tue Jun 11 19:44:02 UTC 2019 validate=true resolveDynamicRevisions=true merge=true resolveId=null pubBranch=null[0m
+[0m[[0m[0minfo[0m] [0m[0m:: delivering :: org.radboris#sbt-map-reduce;0.1-SNAPSHOT :: 0.1-SNAPSHOT :: integration :: Wed Jun 12 15:53:11 UTC 2019[0m
+[0m[[0m[0mdebug[0m] [0m[0m	options = status=integration pubdate=Wed Jun 12 15:53:11 UTC 2019 validate=true resolveDynamicRevisions=true merge=true resolveId=null pubBranch=null[0m
 [0m[[0m[0minfo[0m] [0m[0m	delivering ivy file to /root/map-reduce-plugin-2/sbt-map-reduce/target/scala-2.12/sbt-1.0/ivy-0.1-SNAPSHOT.xml[0m
-[0m[[0m[0mdebug[0m] [0m[0m	deliver done (17ms)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	deliver done (13ms)[0m
 [0m[[0m[0mdebug[0m] [0m[0mlocal do not support transaction. ivy pattern does not use revision as a directory[0m
 [0m[[0m[0minfo[0m] [0m[0m	published sbt-map-reduce to /root/.ivy2/local/org.radboris/sbt-map-reduce/scala_2.12/sbt_1.0/0.1-SNAPSHOT/jars/sbt-map-reduce.jar[0m
 [0m[[0m[0minfo[0m] [0m[0m	published sbt-map-reduce to /root/.ivy2/local/org.radboris/sbt-map-reduce/scala_2.12/sbt_1.0/0.1-SNAPSHOT/srcs/sbt-map-reduce-sources.jar[0m

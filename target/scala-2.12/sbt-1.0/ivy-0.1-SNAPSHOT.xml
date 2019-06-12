@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ivy-module version="2.0" xmlns:e="http://ant.apache.org/ivy/extra">
-	<info organisation="org.radboris" module="sbt-map-reduce" revision="0.1-SNAPSHOT" status="integration" publication="20190611194402" e:sbtVersion="1.0" e:scalaVersion="2.12">
+	<info organisation="org.radboris" module="sbt-map-reduce" revision="0.1-SNAPSHOT" status="integration" publication="20190612155311" e:sbtVersion="1.0" e:scalaVersion="2.12">
 		<description>
 		sbt-map-reduce
 		</description>

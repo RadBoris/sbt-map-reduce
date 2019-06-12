@@ -2,6 +2,8 @@
 [0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
 [0m[[0m[0mdebug[0m] [0m[0m	org/radboris/sbt/Main.scala[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /root/map-reduce-plugin-2/sbt-map-reduce/src/main/scala/org/radboris/sbt/Main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org/radboris/sbt/util/GetInput.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /root/map-reduce-plugin-2/sbt-map-reduce/src/main/scala/org/radboris/sbt/util/GetInput.scala[0m
 [0m[[0m[0mdebug[0m] [0m[0m	org/radboris/sbt/MapProcessor.scala[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /root/map-reduce-plugin-2/sbt-map-reduce/src/main/scala/org/radboris/sbt/MapProcessor.scala[0m
 [0m[[0m[0mdebug[0m] [0m[0m	org/radboris/sbt/Reduce.scala[0m

@@ -4,7 +4,7 @@
 		module="sbt-map-reduce"
 		revision="0.1-SNAPSHOT"
 		status="integration"
-		publication="20190611165334"
+		publication="20190612155308"
 		e:sbtVersion="1.0" e:scalaVersion="2.12"
 	>
 		<description>
