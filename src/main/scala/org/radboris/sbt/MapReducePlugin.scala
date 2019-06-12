@@ -22,9 +22,6 @@ object MapReducePlugin extends AutoPlugin {
   override lazy val buildSettings = Seq()
   override lazy val globalSettings = Seq()
 
-object MapReduce {
-  println("the object")
-}
   Main.main()
   FileToLines.apply("test.txt")
 }

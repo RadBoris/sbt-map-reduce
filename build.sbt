@@ -4,6 +4,11 @@ version := "0.1-SNAPSHOT"
 
 sbtPlugin := true
 
+libraryDependencies ++= Seq(
+    "com.typesafe.akka" %% "akka-actor" % "2.5.22",
+    "com.typesafe.akka" %% "akka-remote" % "2.5.22"
+)
+
 // choose a test framework
 
 // utest

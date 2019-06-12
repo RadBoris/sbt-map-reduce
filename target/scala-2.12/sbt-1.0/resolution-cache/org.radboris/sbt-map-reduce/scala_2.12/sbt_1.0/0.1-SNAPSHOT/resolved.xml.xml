@@ -4,7 +4,7 @@
 		module="sbt-map-reduce"
 		revision="0.1-SNAPSHOT"
 		status="integration"
-		publication="20190612155308"
+		publication="20190612194835"
 		e:sbtVersion="1.0" e:scalaVersion="2.12"
 	>
 		<description>
@@ -37,6 +37,8 @@
 		<dependency org="org.scala-sbt" name="sbt" rev="1.2.8" conf="provided->default(compile)"/>
 		<dependency org="org.scala-sbt" name="scripted-sbt_2.12" rev="1.2.8" conf="scripted-sbt->default(compile)"/>
 		<dependency org="org.scala-sbt" name="sbt-launch" rev="1.2.8" conf="scripted-sbt-launch->default(compile)"/>
+		<dependency org="com.typesafe.akka" name="akka-actor_2.12" rev="2.5.22" conf="compile->default(compile)"/>
+		<dependency org="com.typesafe.akka" name="akka-remote_2.12" rev="2.5.22" conf="compile->default(compile)"/>
 		<override org="org.scala-sbt" module="scripted-plugin_2.12" matcher="exact" rev="1.2.8"/>
 	</dependencies>
 </ivy-module>

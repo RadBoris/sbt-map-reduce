@@ -1,10 +1,4 @@
-[0m[[0m[31merror[0m] [0m[0m/root/map-reduce-plugin-2/sbt-map-reduce/src/main/scala/org/radboris/sbt/MapProcessor.scala:24:28: not found: value Source[0m
-[0m[[0m[31merror[0m] [0m[0m    	val content: String = Source.fromURL(url).mkString[0m
-[0m[[0m[31merror[0m] [0m[0m    	                      ^[0m
-[0m[[0m[31merror[0m] [0m[0m/root/map-reduce-plugin-2/sbt-map-reduce/src/main/scala/org/radboris/sbt/MapProcessor.scala:29:10: not found: value reduceActors[0m
-[0m[[0m[31merror[0m] [0m[0m	       	reduceActors ! Word(word, title)[0m
-[0m[[0m[31merror[0m] [0m[0m	       	^[0m
-[0m[[0m[31merror[0m] [0m[0m/root/map-reduce-plugin-2/sbt-map-reduce/src/main/scala/org/radboris/sbt/MapProcessor.scala:29:25: not found: value Word[0m
-[0m[[0m[31merror[0m] [0m[0m	       	reduceActors ! Word(word, title)[0m
-[0m[[0m[31merror[0m] [0m[0m	       	               ^[0m
-[0m[[0m[31merror[0m] [0m[0mthree errors found[0m
+[0m[[0m[31merror[0m] [0m[0m/root/map-reduce-plugin-2/sbt-map-reduce/src/main/scala/org/radboris/sbt/MapProcessor.scala:11:25: object Messages is not a member of package org.radboris.sbt[0m
+[0m[[0m[31merror[0m] [0m[0mimport org.radboris.sbt.Messages._[0m
+[0m[[0m[31merror[0m] [0m[0m                        ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
