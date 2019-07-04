@@ -1,6 +1,6 @@
 # sbt-map-reduce
 
-MapReduce engine
+MapReduce plugin for a Generic KV Store. The goal is for the plugin to implement the KV store functionality that can then be leveraged in a main application and used in a variety of contexts but mainly processing online data.
 
 ## Usage
 
